@@ -7,8 +7,8 @@ from twitchAPI.types import AuthScope
 from twitchAPI.types import ChatEvent
 import random
 
-APP_ID = 'v237cw71r1j4y6bq96ytf0bg3gua30'
-APP_SECRET = 'j7pfhffj6y4z1xcdq8wwrl5k18br5p'
+APP_ID = ''
+APP_SECRET = ''
 USER_SCOPE = [AuthScope.CHAT_READ]
 TARGET_CHANNEL = 'littlefrei'
 
